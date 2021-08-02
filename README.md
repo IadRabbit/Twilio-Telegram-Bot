@@ -30,3 +30,9 @@ And then just use it :)
 ``` bash
 ./twilio_bot.py
 ```
+
+
+## Bot Commands
+
+* /start
+* /send_message
